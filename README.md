@@ -1,4 +1,4 @@
-# AI-Powered Calculator Agent
+# AI-Powered Agent
 
 This project is an intelligent agent capable of detecting and automatically fixing an operator precedence bug.
 
